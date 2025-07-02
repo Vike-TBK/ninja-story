@@ -1,0 +1,1 @@
+Yellow is a 25 year old swordsman and husband of [[Purple]]. He has a mission given to him from [[The Emperor]] to eliminate the selected members of [[The Royal Family]], which leads him to [[Dagger Island]].
