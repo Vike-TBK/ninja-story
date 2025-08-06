@@ -1,0 +1,1 @@
+Created by [[Kazan]]'s father. After [[Reikazan]] became emperor, he fractured the clan in three parts; [[The Elder]], [[The Mutants]], and [[The Secret]].

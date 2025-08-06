@@ -1,0 +1,1 @@
+An island in the sea separating The [[East Kingdom]] and The [[West Kingdom]].
