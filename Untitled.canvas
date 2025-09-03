@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f3888745d95f8b12","type":"text","text":"[[Black]] Let's his blur gem go","x":640,"y":-160,"width":250,"height":60},
+		{"id":"e22d04150c6eaeba","x":-40,"y":-160,"width":250,"height":50,"type":"text","text":"[[Torin]] Wakes up in the [[The Secret]]'s prison"},
+		{"id":"be43c5c4186b14cc","x":-400,"y":-160,"width":250,"height":60,"type":"text","text":"The Bread episode"},
+		{"id":"93ed3bdbafee993e","x":-1840,"y":-160,"width":250,"height":60,"type":"text","text":"[[Torin]] steps foot on the island"},
+		{"id":"cc03acc84ab5824f","x":-1240,"y":-160,"width":250,"height":60,"type":"text","text":"The Purge Happens"},
+		{"id":"61de959f8a87ed8e","x":-960,"y":-180,"width":250,"height":80,"type":"text","text":"[[Torin]] sets out to find the man who almost killed [[Sayura]]"}
+	],
+	"edges":[]
+}
